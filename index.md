@@ -17,4 +17,4 @@ My GitHub page is https://github.com/Libin-Jian
 
 * Lab 8
 
-    Lab 8, part 1 was one of my favorite labs because it was quick and simple. Although the code itself was fairly simple, the output of the code was fun. It was also the first time I used a counter controlled for-loop. 
+    Lab 8, part 1 was one of my favorite labs because it was quick and simple. Although the code itself was fairly simple, the output of the code was fun. It was also the first time I used a counter controlled for-loop.
